@@ -1,3 +1,6 @@
+#import time for checking code runtime
+#import pandas to store data
+
 import time
 import pandas as pd
 import numpy as np
